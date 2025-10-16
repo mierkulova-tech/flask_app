@@ -10,13 +10,15 @@
 
 2. Создать виртуальное окружение и активировать:
    python -m venv .venv
+   
    source .venv/Scripts/activate  # Windows PowerShell
-   # или source .venv/bin/activate  # Linux/Mac
+   
+   или source .venv/bin/activate  # Linux/Mac
 
-3. Установить Flask:
+4. Установить Flask:
    pip install flask
 
-4. Запустить приложение:
+5. Запустить приложение:
    python main.py
 
 ## Маршруты
